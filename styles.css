@@ -1,18 +1,18 @@
-body {
+body{
     background: #BDBDBD;
     margin: 0;
 }
-div {
+div{
     box-sizing: border-box;
 }
-header {
+header{
     background: white;
     padding: 10px;
 }
-header h1 {
+header h1{
     margin: 0;
 }
-div.post{
+div.post{ 
     background: white;
     margin-top: 10px;
 }
@@ -34,7 +34,7 @@ div.post h2, div.post p{
     padding: 10px;
     margin: 0;
 }
-div.container {
+div.container{
     width: 600px;
     margin: auto;
 }
